@@ -27,6 +27,7 @@ Most of my open source work lives in the [DLSC organisation](https://github.com/
 | Project | What it is |
 |---|---|
 | [CalendarFX](https://github.com/dlsc-software-consulting-gmbh/CalendarFX) | A framework for sophisticated calendar views |
+| [FlexGanttFX](https://github.com/dlsc-software-consulting-gmbh/FlexGanttFX) | Gantt charts and scheduling / planning user interfaces |
 | [FormsFX](https://github.com/dlsc-software-consulting-gmbh/FormsFX) | Easily create forms for a JavaFX UI |
 | [GemsFX](https://github.com/dlsc-software-consulting-gmbh/GemsFX) | A large collection of JavaFX controls and utilities |
 | [PreferencesFX](https://github.com/dlsc-software-consulting-gmbh/PreferencesFX) | Application settings / preferences UIs |
@@ -39,23 +40,15 @@ Most of my open source work lives in the [DLSC organisation](https://github.com/
 | [PhoneNumberFX](https://github.com/dlsc-software-consulting-gmbh/PhoneNumberFX) | Controls for entering and validating phone numbers |
 | [GMapsFX](https://github.com/dlsc-software-consulting-gmbh/GMapsFX) | Google Maps inside a JavaFX application |
 
-### Commercial products
+### FlexGanttFX
 
-**[FlexGanttFX](https://www.flexganttfx.com)** — the Gantt chart and scheduling framework for JavaFX. Dual-licensed under AGPLv3 and a commercial licence, it is the tool I reach for whenever a project needs serious timeline and resource planning.
+**[FlexGanttFX](https://www.flexganttfx.com)** is my framework for building professional scheduling and planning user interfaces — Gantt charts, timelines and resource planning for JavaFX.
+
+It is now **open source**, dual-licensed under **AGPLv3** and a commercial licence: free to use in open source projects, with a commercial option for closed-source products. Source: [dlsc-software-consulting-gmbh/FlexGanttFX](https://github.com/dlsc-software-consulting-gmbh/FlexGanttFX).
 
 ### Community
 
 **[JFXCentral](https://www.jfxcentral.com)** — the central place for the JavaFX community: people, libraries, books, tutorials, videos, blogs and news. Built with JavaFX itself, running in the browser via JPro. Source: [jfxcentral2](https://github.com/dlsc-software-consulting-gmbh/jfxcentral2) and [jfxcentral-data](https://github.com/dlsc-software-consulting-gmbh/jfxcentral-data).
-
-### From my personal repos
-
-| Project | What it is |
-|---|---|
-| [JPackageScriptFX](https://github.com/dlemmermann/JPackageScriptFX) | Build scripts (macOS, Windows) for packaging JavaFX apps with `jpackage` |
-| [JProCalendarFX](https://github.com/dlemmermann/JProCalendarFX) | CalendarFX running in the browser via JPro |
-| [LayoutFX](https://github.com/dlemmermann/LayoutFX) | Utilities for laying out nodes in a JavaFX scene graph |
-| [JavaFXTipsAndTricks](https://github.com/dlemmermann/JavaFXTipsAndTricks) | Examples from my JavaOne "Tips and Tricks" talk |
-| [shadow-fields](https://github.com/dlemmermann/shadow-fields) | A pattern for reducing the memory footprint of JavaFX properties |
 
 ## Speaking & community
 
