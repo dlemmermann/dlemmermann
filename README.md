@@ -41,10 +41,7 @@ Most of my open source work lives in the [DLSC organisation](https://github.com/
 
 ### Commercial products
 
-| Product | What it is |
-|---|---|
-| [FlexGanttFX](https://www.flexganttfx.com) | The Gantt chart and scheduling framework for JavaFX — dual-licensed (AGPLv3 / commercial) |
-| [CalendarFX](https://github.com/dlsc-software-consulting-gmbh/CalendarFX) | Also available under a commercial licence |
+**[FlexGanttFX](https://www.flexganttfx.com)** — the Gantt chart and scheduling framework for JavaFX. Dual-licensed under AGPLv3 and a commercial licence, it is the tool I reach for whenever a project needs serious timeline and resource planning.
 
 ### Community
 
