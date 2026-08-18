@@ -42,7 +42,7 @@ Most of my open source work lives in the [DLSC organisation](https://github.com/
 
 ### FlexGanttFX
 
-**[FlexGanttFX](https://www.flexganttfx.com)** is my framework for building professional scheduling and planning user interfaces — Gantt charts, timelines and resource planning for JavaFX.
+**[FlexGanttFX](https://www.flexganttfx.com)** is my framework for building professional scheduling and planning user interfaces — Gantt charts, timelines and resource planning for JavaFX. It powers planning systems in aviation, logistics and industrial production.
 
 It is now **open source**, dual-licensed under **AGPLv3** and a commercial licence: free to use in open source projects, with a commercial option for closed-source products. Source: [dlsc-software-consulting-gmbh/FlexGanttFX](https://github.com/dlsc-software-consulting-gmbh/FlexGanttFX).
 
